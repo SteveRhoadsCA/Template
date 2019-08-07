@@ -1,0 +1,2 @@
+# Template
+ts-default setup
